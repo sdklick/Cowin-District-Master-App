@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cowin-District-Master-App/static/css/main.c2e83a8c.css",
+    "main.js": "/Cowin-District-Master-App/static/js/main.b60e5872.js",
+    "index.html": "/Cowin-District-Master-App/index.html",
+    "main.c2e83a8c.css.map": "/Cowin-District-Master-App/static/css/main.c2e83a8c.css.map",
+    "main.b60e5872.js.map": "/Cowin-District-Master-App/static/js/main.b60e5872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e83a8c.css",
+    "static/js/main.b60e5872.js"
+  ]
+}
